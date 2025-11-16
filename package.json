@@ -1,0 +1,27 @@
+{
+  "name": "glo-academy-intensive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "watch": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashakuzmich/glo-academy-intensive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dashakuzmich/glo-academy-intensive/issues"
+  },
+  "homepage": "https://github.com/dashakuzmich/glo-academy-intensive#readme",
+  "description": "",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.4",
+    "webpack": "^5.102.1",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
+  }
+}
